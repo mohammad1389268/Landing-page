@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@font-face {
+    font-family: "poppins";
+    src: url(/public/Poppins_www.Downloadha.com/Poppins_www.Downloadha.com/Poppins/PoppinsLatin-Regular.otf);
+}
+body{
+    font-family: "poppins";
+}
